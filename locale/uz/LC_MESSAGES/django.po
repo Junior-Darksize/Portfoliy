@@ -1,0 +1,343 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-01 14:59+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+#: templates/index.html:65
+msgid "Register"
+msgstr "Ro‘yxatdan o‘tish"
+
+#: templates/index.html:66 templates/portfolio-details.html:66 templates/portfolio-details.html:102 templates/service-details.html:55 templates/starter-page.html:67 templates/starter-page.html:103
+msgid "Home"
+msgstr "Bosh sahifa"
+
+#: templates/index.html:67 templates/index.html:113 templates/portfolio-details.html:67 templates/service-details.html:56 templates/starter-page.html:68
+msgid "About"
+msgstr "Men haqimda"
+
+#: templates/index.html:68 templates/index.html:236 templates/portfolio-details.html:68 templates/service-details.html:57 templates/starter-page.html:69
+msgid "Resume"
+msgstr "Rezyume"
+
+#: templates/index.html:69 templates/index.html:313 templates/portfolio-details.html:69 templates/service-details.html:58 templates/starter-page.html:70
+msgid "Portfolio"
+msgstr "Portfel"
+
+#: templates/index.html:70 templates/index.html:360 templates/portfolio-details.html:70 templates/service-details.html:59 templates/starter-page.html:71
+msgid "Services"
+msgstr "Xizmatlar"
+
+#: templates/index.html:71 templates/portfolio-details.html:71 templates/service-details.html:60 templates/starter-page.html:72
+msgid "Dropdown"
+msgstr "Tanlov menyu"
+
+#: templates/index.html:73 templates/portfolio-details.html:73 templates/service-details.html:62 templates/starter-page.html:74
+msgid "Dropdown 1"
+msgstr "Tanlov 1"
+
+#: templates/index.html:74 templates/portfolio-details.html:74 templates/service-details.html:63 templates/starter-page.html:75
+msgid "Deep Dropdown"
+msgstr "Ichki menyu"
+
+#: templates/index.html:76 templates/portfolio-details.html:76 templates/service-details.html:65 templates/starter-page.html:77
+msgid "Deep Dropdown 1"
+msgstr "Ichki menyu 1"
+
+#: templates/index.html:77
+msgid "Deep Dropdown 2"
+msgstr "Ichki menyu 2"
+
+#: templates/index.html:78
+msgid "Deep Dropdown 3"
+msgstr "Ichki menyu 3"
+
+#: templates/index.html:79
+msgid "Deep Dropdown 4"
+msgstr "Ichki menyu 4"
+
+#: templates/index.html:80
+msgid "Deep Dropdown 5"
+msgstr "Ichki menyu 5"
+
+#: templates/index.html:83
+msgid "Dropdown 2"
+msgstr "Tanlov 2"
+
+#: templates/index.html:84
+msgid "Dropdown 3"
+msgstr "Tanlov 3"
+
+#: templates/index.html:85
+msgid "Dropdown 4"
+msgstr "Tanlov 4"
+
+#: templates/index.html:88 templates/index.html:453
+msgid "Contact"
+msgstr "Aloqa"
+
+#: templates/index.html:114 templates/index.html:237 templates/index.html:314 templates/index.html:361
+msgid "Magnam dolores commodi suscipit..."
+msgstr "Muammolar va qiyinchiliklarga chidash. Uning natijasida keladigan narsalar o‘zini qiyin his qiladi. Kimdir unga to‘sqinlik qila olmaydi. Chunki u qonuniy ishlarda o‘z joyini egallaydi."
+
+#: templates/index.html:130
+msgid "Birthday:"
+msgstr "Tug‘ilgan sana:"
+
+#: templates/index.html:131
+msgid "Website:"
+msgstr "Veb-sayt:"
+
+#: templates/index.html:132
+msgid "Phone:"
+msgstr "Telefon:"
+
+#: templates/index.html:133
+msgid "City:"
+msgstr "Shahar:"
+
+#: templates/index.html:138
+msgid "Age:"
+msgstr "Yosh:"
+
+#: templates/index.html:139
+msgid "Degree:"
+msgstr "Ma’lumoti:"
+
+#: templates/index.html:140
+msgid "Email:"
+msgstr "Elektron pochta:"
+
+#: templates/index.html:141
+msgid "Freelance:"
+msgstr "Frilanser:"
+
+#: templates/index.html:165
+msgid "Happy Clients"
+msgstr "Mamnun mijozlar"
+
+#: templates/index.html:165
+msgid "consequuntur quae"
+msgstr "olingan natijalar"
+
+#: templates/index.html:173
+msgid "Projects"
+msgstr "Loyihalar"
+
+#: templates/index.html:173
+msgid "adipisci atque cum quia aut"
+msgstr "erishilgan yutuqlar"
+
+#: templates/index.html:181
+msgid "Hours Of Support"
+msgstr "Qo‘llab-quvvatlash soatlari"
+
+#: templates/index.html:181
+msgid "aut commodi quaerat"
+msgstr "yordam xizmatlari"
+
+#: templates/index.html:189
+msgid "Hard Workers"
+msgstr "Mehnatkashlar"
+
+#: templates/index.html:189
+msgid "rerum asperiores dolor"
+msgstr "mashaqqatli ishlar"
+
+#: templates/index.html:204
+msgid "Skills"
+msgstr "Ko‘nikmalar"
+
+#: templates/index.html:248
+msgid "Brandon Johnson"
+msgstr "Brandon Jonson"
+
+#: templates/index.html:249
+msgid "Innovative and deadline-driven..."
+msgstr "Innovatsion va muddatlarga rioya qiladigan grafik dizayner, 3+ yillik tajribaga ega bo‘lib, foydalanuvchi markazli raqamli/print marketing materiallarini yaratishda ishlagan."
+
+#: templates/index.html:259
+msgid "Master of Fine Arts &amp; Graphic Design"
+msgstr "Tasviriy san’at va grafik dizayn magistri"
+
+#: templates/index.html:266
+msgid "Bachelor of Fine Arts &amp; Graphic Design"
+msgstr "Tasviriy san’at va grafik dizayn bakalavri"
+
+#: templates/index.html:275
+msgid "Professional Experience"
+msgstr "Kasbiy tajriba"
+
+#: templates/index.html:277
+msgid "Senior graphic design specialist"
+msgstr "Katta grafik dizayn mutaxassisi"
+
+#: templates/index.html:289
+msgid "Graphic design specialist"
+msgstr "Grafik dizayn mutaxassisi"
+
+#: templates/index.html:322
+msgid "All"
+msgstr "Hammasi"
+
+#: templates/index.html:323
+msgid "App"
+msgstr "Ilova"
+
+#: templates/index.html:324
+msgid "Product"
+msgstr "Mahsulot"
+
+#: templates/index.html:325
+msgid "Branding"
+msgstr "Brending"
+
+#: templates/index.html:326
+msgid "Books"
+msgstr "Kitoblar"
+
+#: templates/index.html:390
+msgid "Testimonials"
+msgstr "Sharhlar"
+
+#: templates/index.html:467
+msgid "Address"
+msgstr "Manzil"
+
+#: templates/index.html:477
+msgid "Call Us"
+msgstr "Bizga qo‘ng‘iroq qiling"
+
+#: templates/index.html:487
+msgid "Email Us"
+msgstr "Bizga yozing"
+
+#: templates/index.html:503
+msgid "Your Name"
+msgstr "Ismingiz"
+
+#: templates/index.html:508
+msgid "Your Email"
+msgstr "Elektron pochtangiz"
+
+#: templates/index.html:513
+msgid "Subject"
+msgstr "Mavzu"
+
+#: templates/index.html:518
+msgid "Message"
+msgstr "Xabar"
+
+#: templates/index.html:523
+msgid "Loading"
+msgstr "Yuklanmoqda"
+
+#: templates/index.html:525
+msgid "Your message has been sent. Thank you!"
+msgstr "Xabaringiz yuborildi. Rahmat!"
+
+#: templates/index.html:527
+msgid "Send Message"
+msgstr "Xabar yuborish"
+
+#: templates/index.html:546
+msgid "Copyright"
+msgstr "Mualliflik huquqi"
+
+#: templates/index.html:546
+msgid "All Rights Reserved"
+msgstr "Barcha huquqlar himoyalangan"
+
+#: templates/index.html:553
+msgid "BootstrapMade"
+msgstr "BootstrapMade"
+
+#: templates/index.html:553
+msgid "ThemeWagon"
+msgstr "ThemeWagon"
+
+#: templates/portfolio-details.html:99
+msgid "Portfolio Details"
+msgstr "Portfel tafsilotlari"
+
+#: templates/portfolio-details.html:150
+msgid "Project information"
+msgstr "Loyiha haqida ma’lumot"
+
+#: templates/portfolio-details.html:152
+msgid "Category"
+msgstr "Turkum"
+
+#: templates/portfolio-details.html:153
+msgid "Client"
+msgstr "Mijoz"
+
+#: templates/portfolio-details.html:154
+msgid "Project date"
+msgstr "Loyiha sanasi"
+
+#: templates/portfolio-details.html:155
+msgid "Project URL"
+msgstr "Loyiha havolasi"
+
+#: templates/portfolio-details.html:159
+msgid "Exercitationem repudiandae officiis neque suscipit"
+msgstr "Majburiyatlarni rad etish mumkin emas"
+
+#: templates/service-details.html:8
+msgid "Service Details - iPortfolio Bootstrap Template"
+msgstr "Xizmat tafsilotlari - iPortfolio Bootstrap shabloni"
+
+#: templates/service-details.html:90
+msgid "Service"
+msgstr "Xizmat"
+
+#: templates/service-details.html:106
+msgid "Web Design"
+msgstr "Veb-dizayn"
+
+#: templates/service-details.html:107
+msgid "Software Development"
+msgstr "Dasturiy ta’minot ishlab chiqish"
+
+#: templates/service-details.html:108
+msgid "Product Management"
+msgstr "Mahsulot boshqaruvi"
+
+#: templates/service-details.html:109
+msgid "Graphic Design"
+msgstr "Grafik dizayn"
+
+#: templates/service-details.html:110
+msgid "Marketing"
+msgstr "Marketing"
+
+#: templates/starter-page.html:10
+msgid "Starter Page - iPortfolio Bootstrap Template"
+msgstr "Boshlang‘ich sahifa - iPortfolio Bootstrap shabloni"
+
+#: templates/starter-page.html:100
+msgid "Starter Page"
+msgstr "Boshlang‘ich sahifa"
+
+#: templates/starter-page.html:115
+msgid "Starter Section"
+msgstr "Boshlang‘ich bo‘lim"
+
+#: templates/starter-page.html:120
+msgid "Use this page as a starter for your own custom pages."
+msgstr "Bu sahifadan o‘z shaxsiy sahifalaringiz uchun boshlang‘ich sifatida foydalaning."
+

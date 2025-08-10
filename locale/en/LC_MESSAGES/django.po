@@ -1,0 +1,507 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-01 14:59+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+#: templates/index.html:65
+msgid "Register"
+msgstr ""
+
+#: templates/index.html:66 templates/portfolio-details.html:66
+#: templates/portfolio-details.html:102 templates/service-details.html:55
+#: templates/starter-page.html:67 templates/starter-page.html:103
+msgid "Home"
+msgstr ""
+
+#: templates/index.html:67 templates/index.html:113
+#: templates/portfolio-details.html:67 templates/service-details.html:56
+#: templates/starter-page.html:68
+msgid "About"
+msgstr ""
+
+#: templates/index.html:68 templates/index.html:236
+#: templates/portfolio-details.html:68 templates/service-details.html:57
+#: templates/starter-page.html:69
+msgid "Resume"
+msgstr ""
+
+#: templates/index.html:69 templates/index.html:313
+#: templates/portfolio-details.html:69 templates/service-details.html:58
+#: templates/starter-page.html:70
+msgid "Portfolio"
+msgstr ""
+
+#: templates/index.html:70 templates/index.html:360
+#: templates/portfolio-details.html:70 templates/service-details.html:59
+#: templates/starter-page.html:71
+msgid "Services"
+msgstr ""
+
+#: templates/index.html:71 templates/portfolio-details.html:71
+#: templates/service-details.html:60 templates/starter-page.html:72
+msgid "Dropdown"
+msgstr ""
+
+#: templates/index.html:73 templates/portfolio-details.html:73
+#: templates/service-details.html:62 templates/starter-page.html:74
+msgid "Dropdown 1"
+msgstr ""
+
+#: templates/index.html:74 templates/portfolio-details.html:74
+#: templates/service-details.html:63 templates/starter-page.html:75
+msgid "Deep Dropdown"
+msgstr ""
+
+#: templates/index.html:76 templates/portfolio-details.html:76
+#: templates/service-details.html:65 templates/starter-page.html:77
+msgid "Deep Dropdown 1"
+msgstr ""
+
+#: templates/index.html:77 templates/portfolio-details.html:77
+#: templates/service-details.html:66 templates/starter-page.html:78
+msgid "Deep Dropdown 2"
+msgstr ""
+
+#: templates/index.html:78 templates/portfolio-details.html:78
+#: templates/service-details.html:67 templates/starter-page.html:79
+msgid "Deep Dropdown 3"
+msgstr ""
+
+#: templates/index.html:79 templates/portfolio-details.html:79
+#: templates/service-details.html:68 templates/starter-page.html:80
+msgid "Deep Dropdown 4"
+msgstr ""
+
+#: templates/index.html:80 templates/portfolio-details.html:80
+#: templates/service-details.html:69 templates/starter-page.html:81
+msgid "Deep Dropdown 5"
+msgstr ""
+
+#: templates/index.html:83 templates/portfolio-details.html:83
+#: templates/service-details.html:72 templates/starter-page.html:84
+msgid "Dropdown 2"
+msgstr ""
+
+#: templates/index.html:84 templates/portfolio-details.html:84
+#: templates/service-details.html:73 templates/starter-page.html:85
+msgid "Dropdown 3"
+msgstr ""
+
+#: templates/index.html:85 templates/portfolio-details.html:85
+#: templates/service-details.html:74 templates/starter-page.html:86
+msgid "Dropdown 4"
+msgstr ""
+
+#: templates/index.html:88 templates/index.html:453
+#: templates/portfolio-details.html:88 templates/service-details.html:77
+#: templates/starter-page.html:89
+msgid "Contact"
+msgstr ""
+
+#: templates/index.html:114 templates/index.html:237 templates/index.html:314
+#: templates/index.html:361
+msgid ""
+"Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid "
+"fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam "
+"cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste "
+"officiis commodi quidem hic quas."
+msgstr ""
+
+#: templates/index.html:130
+msgid "Birthday:"
+msgstr ""
+
+#: templates/index.html:131
+msgid "Website:"
+msgstr ""
+
+#: templates/index.html:132
+msgid "Phone:"
+msgstr ""
+
+#: templates/index.html:133
+msgid "City:"
+msgstr ""
+
+#: templates/index.html:138
+msgid "Age:"
+msgstr ""
+
+#: templates/index.html:139
+msgid "Degree:"
+msgstr ""
+
+#: templates/index.html:140
+msgid "Email:"
+msgstr ""
+
+#: templates/index.html:141
+msgid "Freelance:"
+msgstr ""
+
+#: templates/index.html:165
+msgid "Happy Clients"
+msgstr ""
+
+#: templates/index.html:165
+msgid "consequuntur quae"
+msgstr ""
+
+#: templates/index.html:173
+msgid "Projects"
+msgstr ""
+
+#: templates/index.html:173
+msgid "adipisci atque cum quia aut"
+msgstr ""
+
+#: templates/index.html:181
+msgid "Hours Of Support"
+msgstr ""
+
+#: templates/index.html:181
+msgid "aut commodi quaerat"
+msgstr ""
+
+#: templates/index.html:189
+msgid "Hard Workers"
+msgstr ""
+
+#: templates/index.html:189
+msgid "rerum asperiores dolor"
+msgstr ""
+
+#: templates/index.html:204
+msgid "Skills"
+msgstr ""
+
+#: templates/index.html:205 templates/index.html:391 templates/index.html:454
+#: templates/starter-page.html:116
+msgid ""
+"Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur "
+"velit"
+msgstr ""
+
+#: templates/index.html:248
+msgid "Brandon Johnson"
+msgstr ""
+
+#: templates/index.html:249
+msgid ""
+"Innovative and deadline-driven Graphic Designer with 3+ years of experience "
+"designing and developing user-centered digital/print marketing material from "
+"initial concept to final, polished deliverable."
+msgstr ""
+
+#: templates/index.html:259
+msgid "Master of Fine Arts &amp; Graphic Design"
+msgstr ""
+
+#: templates/index.html:261 templates/index.html:268
+msgid "Rochester Institute of Technology, Rochester, NY"
+msgstr ""
+
+#: templates/index.html:262
+msgid ""
+"Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem "
+"sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend"
+msgstr ""
+
+#: templates/index.html:266
+msgid "Bachelor of Fine Arts &amp; Graphic Design"
+msgstr ""
+
+#: templates/index.html:269
+msgid ""
+"Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et "
+"quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem "
+"Earum molestiae consequatur neque etlon sader mart dila"
+msgstr ""
+
+#: templates/index.html:275
+msgid "Professional Experience"
+msgstr ""
+
+#: templates/index.html:277
+msgid "Senior graphic design specialist"
+msgstr ""
+
+#: templates/index.html:279
+msgid "Experion, New York, NY"
+msgstr ""
+
+#: templates/index.html:281
+msgid ""
+"Lead in the design, development, and implementation of the graphic, layout, "
+"and production communication materials"
+msgstr ""
+
+#: templates/index.html:282
+msgid ""
+"Delegate tasks to the 7 members of the design team and provide counsel on "
+"all aspects of the project."
+msgstr ""
+
+#: templates/index.html:283
+msgid ""
+"Supervise the assessment of all graphic materials in order to ensure quality "
+"and accuracy of the design"
+msgstr ""
+
+#: templates/index.html:284
+msgid ""
+"Oversee the efficient use of production project budgets ranging from $2,000 "
+"- $25,000"
+msgstr ""
+
+#: templates/index.html:289
+msgid "Graphic design specialist"
+msgstr ""
+
+#: templates/index.html:291
+msgid "Stepping Stone Advertising, New York, NY"
+msgstr ""
+
+#: templates/index.html:293
+msgid ""
+"Developed numerous marketing programs (logos, brochures,infographics, "
+"presentations, and advertisements)."
+msgstr ""
+
+#: templates/index.html:294
+msgid "Managed up to 5 projects or tasks at a given time while under pressure"
+msgstr ""
+
+#: templates/index.html:295
+msgid ""
+"Recommended and consulted with clients on the most appropriate graphic design"
+msgstr ""
+
+#: templates/index.html:296
+msgid ""
+"Created 4+ design presentations and proposals a month for clients and "
+"account managers"
+msgstr ""
+
+#: templates/index.html:322
+msgid "All"
+msgstr ""
+
+#: templates/index.html:323
+msgid "App"
+msgstr ""
+
+#: templates/index.html:324
+msgid "Product"
+msgstr ""
+
+#: templates/index.html:325
+msgid "Branding"
+msgstr ""
+
+#: templates/index.html:326
+msgid "Books"
+msgstr ""
+
+#: templates/index.html:390
+msgid "Testimonials"
+msgstr ""
+
+#: templates/index.html:467
+msgid "Address"
+msgstr ""
+
+#: templates/index.html:477
+msgid "Call Us"
+msgstr ""
+
+#: templates/index.html:487
+msgid "Email Us"
+msgstr ""
+
+#: templates/index.html:503
+msgid "Your Name"
+msgstr ""
+
+#: templates/index.html:508
+msgid "Your Email"
+msgstr ""
+
+#: templates/index.html:513
+msgid "Subject"
+msgstr ""
+
+#: templates/index.html:518
+msgid "Message"
+msgstr ""
+
+#: templates/index.html:523
+msgid "Loading"
+msgstr ""
+
+#: templates/index.html:525
+msgid "Your message has been sent. Thank you!"
+msgstr ""
+
+#: templates/index.html:527
+msgid "Send Message"
+msgstr ""
+
+#: templates/index.html:546 templates/portfolio-details.html:178
+#: templates/service-details.html:142 templates/starter-page.html:131
+msgid "Copyright"
+msgstr ""
+
+#: templates/index.html:546 templates/portfolio-details.html:178
+#: templates/service-details.html:142 templates/starter-page.html:131
+msgid "All Rights Reserved"
+msgstr ""
+
+#: templates/index.html:553 templates/portfolio-details.html:185
+#: templates/service-details.html:145 templates/starter-page.html:138
+msgid "BootstrapMade"
+msgstr ""
+
+#: templates/index.html:553 templates/portfolio-details.html:185
+#: templates/service-details.html:145 templates/starter-page.html:138
+msgid "ThemeWagon"
+msgstr ""
+
+#: templates/portfolio-details.html:99 templates/portfolio-details.html:103
+msgid "Portfolio Details"
+msgstr ""
+
+#: templates/portfolio-details.html:150
+msgid "Project information"
+msgstr ""
+
+#: templates/portfolio-details.html:152
+msgid "Category"
+msgstr ""
+
+#: templates/portfolio-details.html:153
+msgid "Client"
+msgstr ""
+
+#: templates/portfolio-details.html:154
+msgid "Project date"
+msgstr ""
+
+#: templates/portfolio-details.html:155
+msgid "Project URL"
+msgstr ""
+
+#: templates/portfolio-details.html:159
+msgid "Exercitationem repudiandae officiis neque suscipit"
+msgstr ""
+
+#: templates/portfolio-details.html:161
+msgid ""
+"Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore "
+"commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit "
+"non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est "
+"omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt "
+"eius."
+msgstr ""
+
+#: templates/portfolio-details.html:185 templates/starter-page.html:138
+msgid "Designed by"
+msgstr ""
+
+#: templates/portfolio-details.html:185 templates/starter-page.html:138
+msgid "Distributed by"
+msgstr ""
+
+#: templates/service-details.html:8
+msgid "Service Details - iPortfolio Bootstrap Template"
+msgstr ""
+
+#: templates/service-details.html:87 templates/service-details.html:91
+msgid "Service Details"
+msgstr ""
+
+#: templates/service-details.html:90
+msgid "Service"
+msgstr ""
+
+#: templates/service-details.html:106
+msgid "Web Design"
+msgstr ""
+
+#: templates/service-details.html:107
+msgid "Software Development"
+msgstr ""
+
+#: templates/service-details.html:108
+msgid "Product Management"
+msgstr ""
+
+#: templates/service-details.html:109
+msgid "Graphic Design"
+msgstr ""
+
+#: templates/service-details.html:110
+msgid "Marketing"
+msgstr ""
+
+#: templates/service-details.html:113
+msgid "Enim qui eos rerum in delectus"
+msgstr ""
+
+#: templates/service-details.html:114
+msgid "Nam voluptatem quasi numquam quas fugiat ex temporibus quo est..."
+msgstr ""
+
+#: templates/service-details.html:119
+msgid "Temporibus et in vero dicta aut eius..."
+msgstr ""
+
+#: templates/service-details.html:121
+msgid "Blanditiis voluptate odit ex error ea sed officiis deserunt..."
+msgstr ""
+
+#: templates/service-details.html:124
+msgid "Aut eum totam accusantium voluptatem."
+msgstr ""
+
+#: templates/service-details.html:125
+msgid "Assumenda et porro nisi nihil nesciunt."
+msgstr ""
+
+#: templates/service-details.html:126
+msgid "Ullamco laboris nisi ut aliquip ex ea"
+msgstr ""
+
+#: templates/service-details.html:128
+msgid "Sunt rem odit accusantium omnis perspiciatis officia..."
+msgstr ""
+
+#: templates/starter-page.html:10
+msgid "Starter Page - iPortfolio Bootstrap Template"
+msgstr ""
+
+#: templates/starter-page.html:100 templates/starter-page.html:104
+msgid "Starter Page"
+msgstr ""
+
+#: templates/starter-page.html:115
+msgid "Starter Section"
+msgstr ""
+
+#: templates/starter-page.html:120
+msgid "Use this page as a starter for your own custom pages."
+msgstr ""
